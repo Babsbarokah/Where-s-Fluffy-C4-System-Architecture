@@ -6,7 +6,7 @@ Where's Fluffy – An Architecture Kata Case Study
 
 ## Overview
 
-**Where's Fluffy?** is a design case study developed during an ArchitectHer Kata session. The project focuses on building a user-centric, secure, and scalable solution for finding lost pets. The platform aims to integrate real-time tracking, photo-verified sightings, and a rewards mechanism across web and mobile applications.
+**Where's Fluffy?** is a design case study developed during an Architecture Kata session. The project focuses on building a user-centric, secure, and scalable solution for finding lost pets. The platform aims to integrate real-time tracking, photo-verified sightings, and a rewards mechanism across web and mobile applications.
 
 This repository includes:
 - C4 model diagrams (System Context, Container, Component levels)
@@ -15,11 +15,6 @@ This repository includes:
 - Project reflections, learnings, and next steps
 
 ---
-
-
-Where's Flufy is a project that addresses a meaningful, real-world challenge, helping reunite pet owners with their lost pets using a scalable, intuitive platform.
-
-This was a team effort during an Architecture Kata session. Together, we discussed use cases, documentation, architecture trade-offs, and best practices, challenged assumptions, iterated on the C4 model, and shared feedback.
 
 ### Aim:
 Design a scalable, user-centric platform that enables real-time discovery and retrieval of lost pets.
