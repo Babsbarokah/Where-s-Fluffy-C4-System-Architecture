@@ -29,7 +29,7 @@ Design a scalable, user-centric platform that enables real-time discovery and re
 
 ## Process
 
-<img width="1044" alt="problem analysis, architecture kata" src="https://github.com/user-attachments/assets/39169b44-7152-4187-890c-580383edff34" />
+
 
 ### 1. Problem Analysis
 We identified three key stakeholders:
@@ -44,8 +44,7 @@ Primary use cases:
 - Tracking pet sighting locations
 - Viewing/searching based on proximity
 
-
-<img width="1150" alt="Architecture Kata" src="https://github.com/user-attachments/assets/9f6f02a6-dcf6-4d79-b717-76716f28012e" />
+<img width="1044" alt="problem analysis, architecture kata" src="https://github.com/user-attachments/assets/39169b44-7152-4187-890c-580383edff34" />
 
 
 ### 2. C4 Architecture Design
@@ -55,6 +54,8 @@ We used the [C4 model](https://c4model.com/) to structure our solution:
   - User interacts via mobile/web platforms
   - Admins manage listings and validations
   - Third-party services (e.g., GPS, payment providers) integrate for core functionalities
+
+<img width="1150" alt="Architecture Kata" src="https://github.com/user-attachments/assets/9f6f02a6-dcf6-4d79-b717-76716f28012e" />
 
 - **Containers**
   - Frontend: Mobile app + web interface
