@@ -2,16 +2,13 @@
 Where's Fluffy – An Architecture Kata Case Study
 
 
-## Case Study: Where's Fluffy?
-
  
 
 ## Overview
 
 Where's Flufy is a project that addresses a meaningful, real-world challenge, helping reunite pet owners with their lost pets using a scalable, intuitive platform.
 
-
-## Aim & Objectives
+This was a team effort during an Architecture Kata session. Together, we discussed use cases, documentation, architecture trade-offs, and best practices, challenged assumptions, iterated on the C4 model, and shared feedback.
 
 ### Aim:
 Design a scalable, user-centric platform that enables real-time discovery and retrieval of lost pets.
@@ -62,11 +59,6 @@ We used the [C4 model](https://c4model.com/) to structure our solution:
 - **Code-Level Consideration**
   - Component-based structure (e.g., Next.js for frontend, FastAPI backend)
   - CI/CD planning and modularity for scalability
-
----
-
-## Collaboration
-This was a team effort during an ArchitectHer session. Together, we discussed use cases, challenged assumptions, iterated on the C4 model, and shared feedback. We also asked the host valuable questions about documentation, architecture trade-offs, and best practices.
 
 ---
 
