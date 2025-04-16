@@ -42,6 +42,10 @@ Primary use cases:
 - Tracking pet sighting locations
 - Viewing/searching based on proximity
 
+
+<img width="1150" alt="Architecture Kata" src="https://github.com/user-attachments/assets/9f6f02a6-dcf6-4d79-b717-76716f28012e" />
+
+
 ### 2. C4 Architecture Design
 We used the [C4 model](https://c4model.com/) to structure our solution:
 
