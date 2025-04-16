@@ -29,6 +29,8 @@ Design a scalable, user-centric platform that enables real-time discovery and re
 
 ## Process
 
+<img width="1044" alt="problem analysis, architecture kata" src="https://github.com/user-attachments/assets/39169b44-7152-4187-890c-580383edff34" />
+
 ### 1. Problem Analysis
 We identified three key stakeholders:
 - Pet owners searching for their pets
@@ -58,6 +60,8 @@ We used the [C4 model](https://c4model.com/) to structure our solution:
   - Frontend: Mobile app + web interface
   - Backend: REST APIs + authentication layer + payment processor
   - Data layer: NoSQL DB for listings, SQL DB for transactions
+
+<img width="1334" alt="c4 ak" src="https://github.com/user-attachments/assets/9a96d1de-371f-4191-93e7-44597ef787ca" />
 
 - **Components**
   - Auth Module (Login/Register, OAuth integration)
