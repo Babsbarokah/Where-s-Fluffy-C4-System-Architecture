@@ -29,7 +29,7 @@ Design a scalable, user-centric platform that enables real-time discovery and re
 
 ## Process
 
-We kicked off by diving into the problem space—users trying to find lost pets and good-hearted community members spotting them. We took this prompt:
+We kicked off by diving into the problem space. Users trying to find lost pets and good-hearted community members spotting them. We took this prompt:
 
 “People who lose their pets often post on Craigslist or paste fliers. This system should manage pet sightings, confirmations, and rewards in an organized and local-scalable way.”
 
