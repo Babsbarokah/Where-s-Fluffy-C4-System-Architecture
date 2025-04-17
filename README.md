@@ -29,7 +29,11 @@ Design a scalable, user-centric platform that enables real-time discovery and re
 
 ## Process
 
+We kicked off by diving into the problem space—users trying to find lost pets and good-hearted community members spotting them. We took this prompt:
 
+“People who lose their pets often post on Craigslist or paste fliers. This system should manage pet sightings, confirmations, and rewards in an organized and local-scalable way.”
+
+From there, we broke the task into milestones.
 
 ### 1. Problem Analysis
 We identified three key stakeholders:
@@ -38,11 +42,12 @@ We identified three key stakeholders:
 - Local business partners supporting the platform
 
 Primary use cases:
-- Reporting a missing pet
+- Reporting a missing pet(with optional reward)
 - Posting pet sightings (with photo verification)
 - Disbursing and claiming rewards
 - Tracking pet sighting locations
 - Viewing/searching based on proximity
+- Other users can comment (e.g., checked area, recent sighting, etc.).
 
 <img width="1044" alt="problem analysis, architecture kata" src="https://github.com/user-attachments/assets/39169b44-7152-4187-890c-580383edff34" />
 
